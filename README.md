@@ -26,13 +26,13 @@ When I'm not coding/working find me taking photos or trying to eat something new
         self.twitter = '@lucyxjune'
 
         self.tech = {
-            'Languages': ['Python', 'C++','Java','SQL'],
-            'ML': ['Tensorflow','Keras','Scikit-learn','Numpy','Pandas'],
+            'Languages': ['Python', 'SQL'],
+            'ML': ['Tensorflow','Scikit-learn','Numpy','Pandas','scikit-image'],
             'Databases': ['MySQL','SQLite','MSSQL'],
             'OS': ['Linux','Windows','MacOS'],
             'IDE': ['PyCharm','VSCode','Spyder','Eclipse','Jupyter'],
-            'DevOps': ['AWS','Github','Heroku','Streamlit'],
-            'Softwares':['MS Office suite','Adobe Illustrator','Photoshop','Blender','Unreal Engine']
+            'DevOps': ['Github','Heroku','Streamlit'],
+            'Softwares':['MS Office suite','Adobe Illustrator','Photoshop']
 
         }
     
