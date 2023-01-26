@@ -1,7 +1,7 @@
 <h1 align="center">🤠 Howdy! I'm Biswanath Saha</h1>
 
 <p align="center">
-I'm a PhD student in neurosciences at Kyushu University, Japan. I love coding and self-taught in many different instances. I love ML/DL applications and image processing related problems.   
+I'm a PhD student in neurosciences at Kyushu University, Japan. I love coding and self-taught in many different instances. I love data analytics and focus on getting better at it.   
 </p>
 <p align="center"> 
 When I'm not coding/working find me taking photos or trying to eat something new.
