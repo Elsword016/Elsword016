@@ -22,13 +22,11 @@ When I'm not coding/working find me taking photos or trying to eat something new
     def __init__(self):
         self.username = 'Elsword016'
         self.name = 'Biswanath Saha'
-        self.web = 'https://mstudystuff.wixsite.com/biswanath'
-        self.twitter = '@lucyxjune'
 
         self.tech = {
-            'Languages': ['Python', 'SQL'],
+            'Languages': ['Python','R'],
             'ML': ['Tensorflow','Scikit-learn','Numpy','Pandas','scikit-image'],
-            'Databases': ['MySQL','SQLite','MSSQL'],
+            'Databases': ['MySQL'],
             'OS': ['Linux','Windows','MacOS'],
             'IDE': ['PyCharm','VSCode','Spyder','Eclipse','Jupyter'],
             'DevOps': ['Github','Heroku','Streamlit'],
