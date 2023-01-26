@@ -1,4 +1,4 @@
-<h1 align="center">🤠 Howdy! I'm Biswanath Saha</h1>
+<h1 align="center">Welcome to my GitHub page</h1>
 
 <p align="center">
 I'm a PhD student in neurosciences at Kyushu University, Japan. I love coding and self-taught in many different instances. I love data analytics and focus on getting better at it.   
