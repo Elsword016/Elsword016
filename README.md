@@ -29,8 +29,7 @@ When I'm not coding/working find me taking photos or trying to eat something new
             'Databases': ['MySQL'],
             'OS': ['Linux','Windows','MacOS'],
             'IDE': ['PyCharm','VSCode','Spyder','Eclipse','Jupyter'],
-            'DevOps': ['Github','Heroku','Streamlit'],
-            'Softwares':['MS Office suite','Adobe Illustrator','Photoshop']
+            'DevOps': ['Github','Heroku','Streamlit','Weights and Biases],
 
         }
     
