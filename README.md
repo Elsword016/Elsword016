@@ -25,7 +25,7 @@ When I'm not coding/working find me taking photos or trying to eat something new
 
         self.tech = {
             'Languages': ['Python','R'],
-            'ML': ['Tensorflow','Scikit-learn','Numpy','Pandas','scikit-image'],
+            'ML': ['Pytorch','Scikit-learn','Numpy','Pandas','scikit-image'],
             'Databases': ['MySQL'],
             'OS': ['Linux','Windows','MacOS'],
             'IDE': ['PyCharm','VSCode','Spyder','Eclipse','Jupyter'],
@@ -47,7 +47,7 @@ if __name__ == '__main__':
 <p> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40">
@@ -73,4 +73,4 @@ if __name__ == '__main__':
 
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=elsword016) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/elsword016) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/elsword016)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/elsword016) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/elsword016)
